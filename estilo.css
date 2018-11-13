@@ -1,0 +1,34 @@
+*{margin:4%;background: #131219;}
+h1 {font-size: 100px;
+    font-family: calibri;
+  color: #fff;
+text-align:center; }
+ul{list-style:none;}
+ul li {float:left;}
+li{font-size:50px;
+
+  background:#131219;
+  color:#6DEACD;
+  padding: 20px;
+  border: 5px solid #6DEACD;
+  border-radius: 10%;
+}
+a {color:#6DEACD;text-decoration:none;
+}
+a:hover{
+  font-size: 55px;
+}
+a:active{
+  font-size: 45px;
+  color:#E9A5D9;
+}
+a:visited{text-decoration:line-through }
+div a{font-size:20px;
+
+  background:#131219;
+  color:#6DEACD;
+  padding: 20px;
+}
+div a:hover{font-size:22px }
+div a:active{font-size:18px
+color:#E9A5D9 }
